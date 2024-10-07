@@ -3,7 +3,7 @@
 ## 简单的加解密模块
 [SDES.java](test/src/SDES.java)：该文件中定义并实现了SDES算法的加密、解密功能
 ## 暴力破解SDES
-[BruteForceSDES.java]()：该文件中定义并实现了针对SDES算法的暴力破解密钥功能
+[BruteForceSDES.java](test/src/BruteForceSDES.java)：该文件中定义并实现了针对SDES算法的暴力破解密钥功能
 ## GUI设计
 [mainForm.java]()：该文件中定义并实现了用户界面，便于进行加解密以及暴力破解
 
