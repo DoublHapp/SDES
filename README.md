@@ -6,4 +6,6 @@
 [BruteForceSDES.java](test/src/BruteForceSDES.java)：该文件中定义并实现了针对SDES算法的暴力破解密钥功能
 ## GUI设计
 [mainForm.java](test/src/mainForm.java)：该文件中定义并实现了用户界面，便于进行加解密以及暴力破解
+## 过关测试结果
+### 第1关
 
