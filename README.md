@@ -9,14 +9,18 @@
 ## 过关测试结果
 ### 第1关：基本测试
 该项目根据S-DES算法编写和调试程序，提供GUI解密支持用户交互。输入可以是8bit的数据和10bit的密钥，输出是8bit的密文。
-![My Image](测试图片/5_2BJCKULDTPV7YUJT2A_MD.jpg)
+![Test1_Image](测试图片/5_2BJCKULDTPV7YUJT2A_MD.jpg)
 
 ### 第2关：交叉测试
-
+测试图片/)K74NOX({)YV(70NI~05EX4.jpg
+![Test2_Image1]()
+![Test2_Image2]()
+![Test2_Image3]()
+![Test2_Image4]()
 ### 第3关：扩展功能
 
 ### 第4关：暴力破解
-
+![Test4_Image]()
 ### 第5关：封闭测试
 
 ## 用户指南
